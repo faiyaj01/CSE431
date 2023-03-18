@@ -5,7 +5,7 @@ Overleaf link with view access
 https://www.overleaf.com/read/pxwcwjdctgxy
 
 Link to unlisted YouTube video:
-https://youtube/sKFW16u815U
+https://youtu.be/sKFW16u815U 
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1VsiLzrQCmQNnc6ZuXv7peA89BYFihTUls6lWYGWPDww/edit?usp=sharing
